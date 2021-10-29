@@ -1,13 +1,13 @@
 # Module-11
 UFO Sightings with JavaScript
 ## Overview of the Project
-
+The purpose of this project is to develope a Dynamic web page that filters data of UFO's sightings. 
 
 
 ## Results
 
   
-  ![alt text](https://github.com/MauricioIQA/Module-11/blob/main/Photo/1.PNG)
+  ![alt text]()
   
 
 ## Summary
